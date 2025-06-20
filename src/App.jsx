@@ -1,11 +1,11 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 import Dashboard from "./pages/Dashboard"
 import About from "./pages/About"
-import CoinDetail from "./pages/Coindetail"
+import CoinDetail from "./pages/CoinDetail";
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home";
 import News from "./pages/News"
-import Footer from "./pages/Footer"
+import Footer from "./pages/Footer.jsx";
 
 
 function App() {
